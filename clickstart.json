@@ -1,8 +1,8 @@
 {
     "id": "webrtc-io-clickstart",
-    "name": "WebRTC.io Node.js web application",
+    "name": "WebRTC.io video, audio, text, real time chat",
     "source": "github",
-    "description" : "This is a WebRTC.io Node.js application on CloudBees with continuous deployment (beta)",
+    "description" : "This is a WebRTC.io Node.js showcase of websockets using realtime video/audio and text chat",
     "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/nodejs.png",
     "runtime": {
         "type": "nodejs",
