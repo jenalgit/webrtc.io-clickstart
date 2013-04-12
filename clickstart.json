@@ -14,7 +14,7 @@
 
     "build-with-jenkins": {
 	"template": {
-            "type": "https://raw.github.com/michaelneale/webrtc.io-clickstart/master/jenkins.xml",
+            "type": "https://raw.github.com/CloudBees-community/webrtc.io-clickstart/master/jenkins.xml",
             "options": {
             }            
         }
